@@ -1,6 +1,6 @@
 # phpdasar
 
-`Hallo, pada repository ini berisi mengenai progress belajar PHP Dasar 💻`
+`Hallo, pada repository ini berisi mengenai progress belajar ==PHP Dasar== 💻`
 
 *Daily Progress*
 ---
