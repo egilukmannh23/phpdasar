@@ -1,6 +1,6 @@
 # phpdasar
 
-Daily Progress
+*Daily Progress*
 ---
 - [x] D1
 - [ ] D2
